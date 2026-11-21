@@ -1,8 +1,6 @@
 # Pet-Adoption-Homepage
 # **Project Report – Pet Adoption Homepage (Task 3)**
 
-Overall Assessment: Good
-
 **Project Name:** Happy Tails – Pet Adoption Center\
 **Project Type:** Responsive Pet Adoption Website\
 **Technology Used:** HTML, CSS, JavaScript
